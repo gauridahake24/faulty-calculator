@@ -7,7 +7,7 @@ while(True):
     operator = input('Which operator do you want to use?: ')
 
     if operator == '+':
-        if num1 == 56 and num2 == 9:
+        if num1 == 60 and num2 == 9:
             print(77)
         else:
             print(num1 + num2)
@@ -16,7 +16,7 @@ while(True):
         print(num1 - num2)
 
     if operator == '*':
-        if num1 == 45 and num2 == 3:
+        if num1 == 50 and num2 == 3:
             print(555)
         else:
             print(num1 * num2)
